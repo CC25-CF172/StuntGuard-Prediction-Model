@@ -14,7 +14,7 @@ Aplikasi ini menggunakan model neural network yang dilatih dengan data stunting 
 
 ### 1. Clone Repository
 ```bash
-git clone <repository-url>
+git clone git@github.com:CC25-CF172/StuntGuard-Prediction-Model.git
 cd stunting-prediction-app
 ```
 
